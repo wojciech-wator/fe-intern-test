@@ -9,13 +9,14 @@ Server with endpoint providing photos is [here](https://codewise-fe-api.herokuap
 * Organize displaying photos to fill gaps. 
 * Boost scroll performance.
 * Improve page look.
+* Make it resonspive.
 
 ## You can use
 * Some DOM manipulation and AJAX library (i.e jQuery).
 * Some util JS library (i.e lodash).
 
 ## You cannot use
-* Frameworks (i.e Angular, React).
+* Frameworks (i.e Angular, React, Vue.js).
 * Libraries which will solve any of provided tasks for your (i.e infinite scroll library).
 * Frontend libraries for websites design (i.e Bootstrap).
 
@@ -26,9 +27,11 @@ Server with endpoint providing photos is [here](https://codewise-fe-api.herokuap
 4. After you finish, commit and push your changes to your fork and create pull request of your changes to our repository.
 
 ## If you want to use local server
-1. Fork [this](https://github.com/codewise/fe-intern-test-api) repository. It contains server files.
+1. Clone [this](https://github.com/codewise/fe-intern-test-api) repository. It contains server files.
 2. Install project dependencies with ```npm install``` command.
 3. Run server project with ```npm run start``` command.
 4. Your data is available at your local endpoint: ```localhost:3000/photos```
+
+## In case of any questions you can ask us any time
 
 # Good luck!
